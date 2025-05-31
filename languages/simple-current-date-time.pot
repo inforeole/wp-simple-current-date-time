@@ -1,0 +1,28 @@
+# Copyright (C) 2025 Philippe Eveilleau - Inforeole
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Current Date Time 1.4\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/simple-current-date-time\n"
+"POT-Creation-Date: 2025-05-31 09:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Philippe Eveilleau - Inforeole <philippe@inforeole.fr>\n"
+"Language-Team: Philippe Eveilleau - Inforeole <philippe@inforeole.fr>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n" # Ou l'outil que vous utiliseriez
+"X-Domain: simple-current-date-time\n"
+
+#: simple-date.php:35
+msgid "Shortcodes (EN):"
+msgstr ""
+
+#: simple-date.php:36
+msgid "Alias (FR):"
+msgstr ""
+
+#: simple-date.php:37
+msgid "More Info & Support"
+msgstr ""
